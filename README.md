@@ -14,6 +14,6 @@
 
 ---
 
-# Plano de ensino
+# Exercício de ensino
 
 ## [Acessando e modificando elementos de um array](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/modificando-array)
