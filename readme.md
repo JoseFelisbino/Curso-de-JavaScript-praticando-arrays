@@ -1,36 +1,31 @@
-# Acessando e modificando elementos de um array
+#  Percorrendo listas com for
 
 ## Descrição
 
-Imagine que você está desenvolvendo um sistema para controlar uma lista de compras. O primeiro passo é permitir que a pessoa usuária acesse e altere os itens dessa lista.
+Você está criando um sistema para controlar os gastos mensais da sua casa. Os valores das despesas estão em um array, e você precisa somar todos esses valores para saber o total gasto no mês.
 
 ---
 
 ## Objetivo
 
-- Escreva um programa que:
+Escreva um programa que:
 
-   > - Crie um array com os itens iniciais da lista de compras.
-
-   > - Acesse e exiba o segundo item da lista.
-
-   > - Modifique o último item da lista para um novo valor.
+   > - Crie um array com os valores das despesas.
+   > - Use um loop `for` para somar os valores.
+   > - Exiba o total gasto.
 
 ---
 
 ## Exemplo de entrada:
 
 ```js
-const listaDeCompras = ['arroz', 'feijão', 'macarrão', 'tomate'];
-```
-
----
-
-## Exemplo de saída:
-
-```txt
-Segundo item da lista: feijão
-Lista após modificação: ['arroz', 'feijão', 'macarrão', 'fruta']
+const despesas = [120, 80, 45.5, 200, 60];
 ````
 
 ---
+
+## Saída esperada:
+
+```txt
+Total de despesas: R$ 505.5
+````
