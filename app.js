@@ -1,12 +1,8 @@
-const listaDeCompras = ['arroz', 'feijão', 'macarrão', 'tomate'];
+const despesas = [120, 80, 45.5, 200, 60];
+let totalDespesas = 0;
 
-const segundoItemLista = listaDeCompras[1];
-const novoItemLista = "fruta";
+for (let i =0; i < despesas.length; i++) {
+    totalDespesas += despesas[i];
+}
 
-listaDeCompras[listaDeCompras.length - 1] = novoItemLista
-
-console.log(`Segundo item da lista: ${segundoItemLista}`);
-console.log(`Lista após modificação: ${listaDeCompras}`);
-
-
-
+console.log(`Total de despesas: R$ ${totalDespesas}`)
