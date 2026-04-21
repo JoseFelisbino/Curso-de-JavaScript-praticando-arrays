@@ -25,3 +25,5 @@
 ## [Adicionando e removendo intens da lista](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/adicionando-removendo-itens)
 
 ## [Clonando arrays](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/clonando-array)
+
+## [Buscando intens](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/buscando-itens)
