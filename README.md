@@ -27,3 +27,5 @@
 ## [Clonando arrays](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/clonando-array)
 
 ## [Buscando intens](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/buscando-itens)
+
+## [Transformando dados com map](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/transformando-dados)
