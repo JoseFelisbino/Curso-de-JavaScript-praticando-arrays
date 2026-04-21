@@ -19,3 +19,5 @@
 ## [Acessando e modificando elementos de um array](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/modificando-array)
 
 ## [Percorrendo listas com for](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/Percorrendo-listas-com-for)
+
+## [Exibindo mensagens](https://github.com/JoseFelisbino/Curso-de-JavaScript-praticando-arrays/tree/exibindo-mensagens)
